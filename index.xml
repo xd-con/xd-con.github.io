@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XD Conferences</title>
+    <link>https://xd-con.github.io/</link>
+    <description>Recent content on XD Conferences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xd-con.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://xd-con.github.io/posts/introduction/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://xd-con.github.io/posts/introduction/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-the-across-domains-conferences&#34;&gt;Welcome to the Across Domains conferences!&lt;/h1&gt;
+&lt;p&gt;This site aims to be a landing page for the XD conference series.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
